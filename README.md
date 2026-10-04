@@ -1,7 +1,7 @@
 # Big Mart Sales Prediction
 
 A machine learning project that predicts the sales of products in Big Mart outlets using product and outlet-related features.
-
+https://martsalesprediction-mdswcksktzykyf9k6tpja5.streamlit.app/
 ## Project Overview
 
 The goal of this project is to predict `Item_Outlet_Sales` based on information such as item weight, item visibility, item type, MRP, outlet size, location, and outlet type.
